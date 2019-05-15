@@ -1,2 +1,0 @@
-# MojeSwapi
-Created with CodeSandbox
